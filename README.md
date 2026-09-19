@@ -1,5 +1,7 @@
 # windowstech
 How to save windows
+<img width="2559" height="1439" alt="image" src="https://github.com/user-attachments/assets/583bb7c8-c156-4017-9b91-fd83e0ce0a69" />
+
 # Install Guide
 ## Install Software
 ### Install GlazeWM
