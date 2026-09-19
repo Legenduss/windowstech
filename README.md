@@ -9,6 +9,7 @@ Install Yasb
 
 Install TranslucentTB
 [TranslucentTB (Windows Store)](https://apps.microsoft.com/detail/9pf4kz2vn4w9?hl=en-US&gl=US)
+
 [TranslucentTB (Github)](https://github.com/translucenttb/translucenttb)
 
 Run both installers
